@@ -1,5 +1,31 @@
 {
   "title": "aaa",
   "id": 1,
-  "formatVersion": 2
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "bbb",
+      "formatVersion": 2,
+      "id": 2,
+      "attr": {
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "ddd",
+          "formatVersion": 2,
+          "id": 3,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {}
+        },
+        "2": {
+          "title": "ccc",
+          "id": 5
+        }
+      }
+    }
+  },
+  "links": []
 }
